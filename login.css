@@ -5,16 +5,7 @@ body
     background-color:black;  
     font-family: 'Montserrat', sans-serif;  
 }  
-.login{  
-        width: 382px;  
-        overflow: hidden;  
-        margin: auto;  
-        margin: 20 0 0 450px;  
-        padding: 80px;  
-        background: #23463f;  
-        border-radius: 15px ;  
-          
-}  
+ 
 h2{  
     text-align: center;  
     color:whitesmoke;  
@@ -73,7 +64,6 @@ body{
 	padding-left: 8%;
 	padding-right: 8%;
 	box-sizing: border-box;
-    align:center;
 }
 
 .header{
@@ -84,8 +74,8 @@ body{
 	position: relative;
 }
 .navbar{
-	text-align: center;
-	flex: auto;
+	text-align:center;
+	flex:content;
 }
 
 .navbar a{
